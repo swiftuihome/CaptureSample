@@ -1,0 +1,2 @@
+# CaptureSample
+在macOS中录制屏幕Apple官方Demo
